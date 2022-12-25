@@ -1,0 +1,15 @@
+/Users/viktoriasyceva/Documents/lesson two/array/bin/Debug/net7.0/array
+/Users/viktoriasyceva/Documents/lesson two/array/bin/Debug/net7.0/array.deps.json
+/Users/viktoriasyceva/Documents/lesson two/array/bin/Debug/net7.0/array.runtimeconfig.json
+/Users/viktoriasyceva/Documents/lesson two/array/bin/Debug/net7.0/array.dll
+/Users/viktoriasyceva/Documents/lesson two/array/bin/Debug/net7.0/array.pdb
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/array.csproj.AssemblyReference.cache
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/array.AssemblyInfoInputs.cache
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/array.AssemblyInfo.cs
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/array.csproj.CoreCompileInputs.cache
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/array.dll
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/refint/array.dll
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/array.pdb
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/array.genruntimeconfig.cache
+/Users/viktoriasyceva/Documents/lesson two/array/obj/Debug/net7.0/ref/array.dll
