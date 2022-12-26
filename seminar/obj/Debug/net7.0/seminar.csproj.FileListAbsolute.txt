@@ -1,0 +1,15 @@
+/Users/viktoriasyceva/Documents/lesson two/seminar/bin/Debug/net7.0/seminar
+/Users/viktoriasyceva/Documents/lesson two/seminar/bin/Debug/net7.0/seminar.deps.json
+/Users/viktoriasyceva/Documents/lesson two/seminar/bin/Debug/net7.0/seminar.runtimeconfig.json
+/Users/viktoriasyceva/Documents/lesson two/seminar/bin/Debug/net7.0/seminar.dll
+/Users/viktoriasyceva/Documents/lesson two/seminar/bin/Debug/net7.0/seminar.pdb
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/seminar.csproj.AssemblyReference.cache
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/seminar.AssemblyInfoInputs.cache
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/seminar.AssemblyInfo.cs
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/seminar.csproj.CoreCompileInputs.cache
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/seminar.dll
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/refint/seminar.dll
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/seminar.pdb
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/seminar.genruntimeconfig.cache
+/Users/viktoriasyceva/Documents/lesson two/seminar/obj/Debug/net7.0/ref/seminar.dll
