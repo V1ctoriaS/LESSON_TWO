@@ -21,7 +21,28 @@ void PrintArray(int[] col)  //void - это метод, который ниче�
     }
 }
 
+int IndexOf(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = 0;
+    while (index < count)
+    {
+        if(collection[index] == find)
+        {
+            position = index;
+        }
+        index++;
+        return position;
+    }
+}
+
+
 int[] array = new int[10];
 
-FillArray(array);
-PrintArray(array);
+FillArray(array); //эта команда вызывает массив
+PrintArray(array); //эта команда его печатает
+Console.WriteLine();
+
+int pos = IndexOf(array, 4);
+Console.WriteLine(pos);
