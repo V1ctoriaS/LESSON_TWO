@@ -37,9 +37,9 @@ printArray(array);
 
 
 int sum = 0;
-for (int x = 0; x < array.Length; x++)
+for (int i = 0; i < array.Length; i++)
 {
-if (array[x] % 2 == 0)
+if (array[i] % 2 == 0)
 sum++;
 }
 Console.WriteLine($"Количество четных чисел - {sum}");
