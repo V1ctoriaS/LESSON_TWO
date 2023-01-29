@@ -13,7 +13,7 @@ int[] generateArray(int length, int start, int end)   // эта функция �
 int getInFromUser(string message)   //принимаем массив от пользователя
 {
     Console.WriteLine(message);
-    int userInt = int.Parse(Console.ReadLine());
+    int userInt = int.Parse(Console.ReadLine()!);
     return userInt;
 }
 
