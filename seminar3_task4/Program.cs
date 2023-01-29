@@ -2,7 +2,7 @@
 // и выдаёт таблицу кубов чисел от 1 до N.
 
 Console.WriteLine("Введите число");
-int N = int.Parse(Console.ReadLine());
+int N = int.Parse(Console.ReadLine()!);
 
 int i = 1;
 
