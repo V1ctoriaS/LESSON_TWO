@@ -1,0 +1,15 @@
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/bin/Debug/net7.0/seminar6_task42
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/bin/Debug/net7.0/seminar6_task42.deps.json
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/bin/Debug/net7.0/seminar6_task42.runtimeconfig.json
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/bin/Debug/net7.0/seminar6_task42.dll
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/bin/Debug/net7.0/seminar6_task42.pdb
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/seminar6_task42.csproj.AssemblyReference.cache
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/seminar6_task42.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/seminar6_task42.AssemblyInfoInputs.cache
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/seminar6_task42.AssemblyInfo.cs
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/seminar6_task42.csproj.CoreCompileInputs.cache
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/seminar6_task42.dll
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/refint/seminar6_task42.dll
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/seminar6_task42.pdb
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/seminar6_task42.genruntimeconfig.cache
+/Users/viktoriasyceva/Documents/lesson two/seminar6_task42/obj/Debug/net7.0/ref/seminar6_task42.dll

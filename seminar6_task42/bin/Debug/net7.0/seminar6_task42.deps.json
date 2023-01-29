@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "seminar6_task42/1.0.0": {
+        "runtime": {
+          "seminar6_task42.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seminar6_task42/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
