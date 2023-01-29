@@ -20,4 +20,4 @@ string TransformBinary(int number)
 
 int number = getUserData("Введите число");
 string binary = TransformBinary(number);
-Console.WriteLine($"Число = {binary}");
+Console.WriteLine($"Число {number} в двоичной системе = {binary}");
