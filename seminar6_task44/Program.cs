@@ -16,11 +16,11 @@ string TransformFibonnaci (int number)
     //string result = string.Empty;
     int n1 = 0;
     int n2 = 1;
-    string result = $"{n1}{n2}";    //эта функция преобразует int в string
+    string result = $"{n1} {n2}";    //эта функция преобразует int в string
     for (int i = 2; i < number; i++)
     {
        int n = n1 + n2;
-       result = result + n;
+       result = result + " " + n + " ";
        n1 = n2;
        n2 = n;
     }
