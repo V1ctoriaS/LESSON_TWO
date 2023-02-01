@@ -9,12 +9,12 @@ int getUserData(string message)
     return userData;
 }
 
-string SetOfNumbers (int number)
+string ArrayOfNumbers (int number)
 {
     int i = 0;
     int sum = 0;
     string result = string.Empty;
-    while (number > i)
+    while(number > i)
     {
         Console.WriteLine("Введите число");
         int num = int.Parse(Console.ReadLine()!);
@@ -22,23 +22,23 @@ string SetOfNumbers (int number)
         {
             sum = sum + 1;
         }
-        else
-        {
-            sum = sum + 0;
-        }
         i++;
-        if (i < number)
+        if(number > i)
         {
-            result = ($"{result} {num} ,");
+            result = ($"{result} {num}, ");
         }
         else
         {
-            result = ($"{result} {num} ,");
+            result = ($"{result} {num} ");
         }
     }
-    result = ($"{result} = {sum}");
+    result = result = ($"{result} = {sum}");
     return result;
 }
+
+
 int number = getUserData("Введите желаемое количество чисел");
-string res = SetOfNumbers(number);
+string res = ArrayOfNumbers(number);
+//int set = SumOfNumbers(array);
 Console.WriteLine($"{res}");
+
