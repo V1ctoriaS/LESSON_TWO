@@ -2,7 +2,6 @@
 //0, 7, 8, -2, -2 -> 2
 //1, -7, 567, 89, 223-> 3
 
-int mes = getUserData("Введите желаемое количество чисел");
 int getUserData(string message)
 {
     Console.WriteLine(message);
@@ -12,23 +11,34 @@ int getUserData(string message)
 
 string SetOfNumbers (int number)
 {
-    string arr = string.Empty;
-    int result = 0;
-    while (number => 8)
+    int i = 0;
+    int sum = 0;
+    string result = string.Empty;
+    while (number > i)
     {
-        if (number > 0)
+        Console.WriteLine("Введите число");
+        int num = int.Parse(Console.ReadLine()!);
+        if (num > 0)
         {
-            result++;
-            arr = $"{result}";
+            sum = sum + 1;
         }
         else
         {
-            result = result + 0;
-            arr = $"{result}";
+            sum = sum + 0;
+        }
+        i++;
+        if (i < number)
+        {
+            result = ($"{result} {num} ,");
+        }
+        else
+        {
+            result = ($"{result} {num} ,");
         }
     }
+    result = ($"{result} = {sum}");
     return result;
 }
-
-string numbers = SetOfNumbers(number);
-Console.WriteLine($"Число {numbers}");
+int number = getUserData("Введите желаемое количество чисел");
+string res = SetOfNumbers(number);
+Console.WriteLine($"{res}");
