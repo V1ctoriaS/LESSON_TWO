@@ -1,5 +1,6 @@
 ﻿// Напишите программу, которая перевернет одномерный массив
 //[1 2 3 4 5]->[5 4 3 2 1]
+
 int [] generateArray(int length, int deviation)
 {
     int[] array = new int[length];
