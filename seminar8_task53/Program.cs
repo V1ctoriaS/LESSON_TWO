@@ -1,12 +1,12 @@
 ﻿// Задача 53: Задайте двумерный массив. Напишите программу, которая поменяет местами первую и 
 // последнюю строку массива.
 
-int[,] generate2DArray(int colLength, int rowLength, int start, int finish)
+int[,] generate2DArray(int rowLength, int colLength, int start, int finish)
 {
-    int[,] array = new int[colLength, rowLength];
-    for (int i = 0; i < colLength; i++)
+    int[,] array = new int[rowLength, colLength];
+    for (int i = 0; i < rowLength; i++)
     {
-        for (int j = 0; j < rowLength; j++)
+        for (int j = 0; j < colLength; j++)
         {
             array[i,j] = new Random().Next(start,finish +1);
         }
